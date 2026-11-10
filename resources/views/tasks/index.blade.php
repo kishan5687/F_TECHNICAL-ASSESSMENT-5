@@ -28,7 +28,6 @@
             color: #333;
             font-size: 14px;
         }
-        /* Alternating row background styling */
         tbody tr:nth-child(even) { 
             background: #f4f7fc; 
         }
